@@ -1,0 +1,112 @@
+1607711546627	geckodriver	INFO	Listening on 127.0.0.1:51173
+1607711546638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGK4ftH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607711566574	Marionette	INFO	Listening on port 41829
+1607711566855	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://play.nlop.com/includes/js/banner-code.js, line 1085: unreachable code after return statement
+JavaScript warning: https://play.nlop.com/includes/js/banner-code.js, line 1085: unreachable code after return statement
+1607711590693	Marionette	INFO	Stopped listening on port 41829
+1607712039363	geckodriver	INFO	Listening on 127.0.0.1:53619
+1607712039375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYF149v"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607712046774	Marionette	INFO	Listening on port 36533
+1607712046870	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://play.nlop.com/includes/js/banner-code.js, line 1085: unreachable code after return statement
+JavaScript warning: https://play.nlop.com/includes/js/banner-code.js, line 1085: unreachable code after return statement
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1607712066898	Marionette	INFO	Stopped listening on port 36533
+1607712760901	geckodriver	INFO	Listening on 127.0.0.1:50819
+1607712760912	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileui13MK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607712767975	Marionette	INFO	Listening on port 37117
+1607712768128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://play.nlop.com/includes/js/banner-code.js, line 1085: unreachable code after return statement
+JavaScript warning: https://play.nlop.com/includes/js/banner-code.js, line 1085: unreachable code after return statement
+1607712799129	Marionette	INFO	Stopped listening on port 37117
+1607712834932	geckodriver	INFO	Listening on 127.0.0.1:54741
+1607712834944	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFxSaqE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607712842075	Marionette	INFO	Listening on port 43283
+1607712842156	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://play.nlop.com/includes/js/banner-code.js, line 1085: unreachable code after return statement
+JavaScript warning: https://play.nlop.com/includes/js/banner-code.js, line 1085: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://play.nlop.com/includes/js/banner-code.js, line 1085: unreachable code after return statement
+JavaScript warning: https://play.nlop.com/includes/js/banner-code.js, line 1085: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://browser.nlop.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://browser.nlop.com"
+1607713249740	geckodriver	INFO	Listening on 127.0.0.1:60917
+1607713249751	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1KsSxE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607713258104	Marionette	INFO	Listening on port 33549
+1607713258280	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://play.nlop.com/includes/js/banner-code.js, line 1085: unreachable code after return statement
+JavaScript warning: https://play.nlop.com/includes/js/banner-code.js, line 1085: unreachable code after return statement
+1607713293816	Marionette	INFO	Stopped listening on port 33549
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://browser.nlop.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://browser.nlop.com"
+1607714465865	geckodriver	INFO	Listening on 127.0.0.1:47705
+1607714465878	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVbYs4t"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607714473328	Marionette	INFO	Listening on port 38509
+1607714473444	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://play.nlop.com/includes/js/banner-code.js, line 1085: unreachable code after return statement
+JavaScript warning: https://play.nlop.com/includes/js/banner-code.js, line 1085: unreachable code after return statement
+1607714518180	Marionette	INFO	Stopped listening on port 38509
+1607714637526	geckodriver	INFO	Listening on 127.0.0.1:58115
+1607714638540	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDaWXry"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607714648049	Marionette	INFO	Listening on port 37029
+1607714648212	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://play.nlop.com/includes/js/banner-code.js, line 1085: unreachable code after return statement
+JavaScript warning: https://play.nlop.com/includes/js/banner-code.js, line 1085: unreachable code after return statement
+1607716689175	geckodriver	INFO	Listening on 127.0.0.1:53573
+1607716690141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDPJNM9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607716702496	Marionette	INFO	Listening on port 37775
+1607716702972	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://play.nlop.com/includes/js/banner-code.js, line 1085: unreachable code after return statement
+JavaScript warning: https://play.nlop.com/includes/js/banner-code.js, line 1085: unreachable code after return statement
+1607716843710	geckodriver	INFO	Listening on 127.0.0.1:34179
+1607716844652	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelVyJVJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607716855492	Marionette	INFO	Listening on port 44945
+1607716855588	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://play.nlop.com/includes/js/banner-code.js, line 1085: unreachable code after return statement
+1607716863418	Marionette	INFO	Stopped listening on port 44945
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1607717029165	geckodriver	INFO	Listening on 127.0.0.1:45785
+1607717029209	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesGjfwb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607717040251	Marionette	INFO	Listening on port 45315
+1607717040754	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://play.nlop.com/includes/js/banner-code.js, line 1085: unreachable code after return statement
+1607717050143	Marionette	INFO	Stopped listening on port 45315
+1607717093887	geckodriver	INFO	Listening on 127.0.0.1:60797
+1607717093936	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLlzE6e"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607717105248	Marionette	INFO	Listening on port 43765
+1607717105396	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://play.nlop.com/includes/js/banner-code.js, line 1085: unreachable code after return statement
+1607717115702	Marionette	INFO	Stopped listening on port 43765
+1607789792992	Marionette	INFO	Stopped listening on port 37775
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: Error: permitUnload is already running for this tab.
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: Error: permitUnload is already running for this tab.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2303: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileDaWXry/protections.sqlite
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1607789846390	Marionette	INFO	Stopped listening on port 37029
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1607789892967	Marionette	INFO	Stopped listening on port 43283
